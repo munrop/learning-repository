@@ -3,4 +3,6 @@ for datafile in "$@"
 do
 	echo $datafile
 	bash goostats -J 100 -r $datafile stats-$datafile
+	# comment goes here just to make a change to test
+	# the git procedures
 done
