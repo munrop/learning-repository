@@ -5,4 +5,7 @@ do
 	bash goostats -J 100 -r $datafile stats-$datafile
 	# comment goes here just to make a change to test
 	# the git procedures
+	#
+	# New change to check the git diff command.
+	#
 done
