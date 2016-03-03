@@ -8,4 +8,5 @@ do
 	#
 	# New change to check the git diff command.
 	#
+	#Nates new comment
 done
